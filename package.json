@@ -1,0 +1,18 @@
+{
+  "name": "baseTemplate",
+  "version": "0.0.1",
+  "description": "This is a template which I have created to be used as a starting point of any project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iraycd",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-compass": "*",
+    "gulp-livereload": "*",
+    "gulp-watch": "*",
+    "node-static": "*"
+  }
+}
